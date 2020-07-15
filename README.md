@@ -15,6 +15,8 @@
 - 🌱 I’m currently learning Rust and Deno
 - 📫 How to reach me: scheduledx@gmail.com
 
+![Celancism's github stats](https://github-readme-stats.vercel.app/api?username=Cerlancism&show_icons=true&hide_border=true)
+
 ### - Languages and Tools...
 
 <p align="center">
