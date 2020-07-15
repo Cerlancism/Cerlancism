@@ -1,4 +1,4 @@
-![banner](https://styles.redditmedia.com/t5_2w6fe/styles/bannerBackgroundImage_xdiwdozzey951.png)
+![banner](./animeme_banner.png)
 
 ![banner](https://pbs.twimg.com/profile_banners/2463867379/1567115150/1500x500)
 
@@ -17,7 +17,7 @@
 
 ![Celancism's github stats](https://github-readme-stats.vercel.app/api?username=Cerlancism&show_icons=true&hide_border=true)
 
-### - Languages and Tools...
+### Languages and Tools
 
 <p align="center">
  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/csharp.svg"alt="Twitter" style="vertical-align:top; margin:4px">
