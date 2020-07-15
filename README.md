@@ -1,4 +1,4 @@
-![banner](./animeme_banner.png)
+![banner](https://raw.githubusercontent.com/Cerlancism/Cerlancism/master/animeme_banner.png)
 
 ![banner](https://pbs.twimg.com/profile_banners/2463867379/1567115150/1500x500)
 
