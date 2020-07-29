@@ -1,4 +1,4 @@
-![banner](https://pbs.twimg.com/profile_banners/2463867379/1567115150/1500x500)
+![banner](https://i.imgur.com/NiH3cpL.png)
 
 # Hi there 👋
 
@@ -37,4 +37,5 @@
 </p>
 
 ---
-Banner by: https://twitter.com/Merryweatherey
+Banner by: https://twitter.com/Merryweatherey  
+Colored Badges by: https://github.com/MikeCodesDotNET/ColoredBadges  
