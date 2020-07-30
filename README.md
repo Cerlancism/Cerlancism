@@ -37,5 +37,5 @@
 </p>
 
 ---
-Banner by: https://twitter.com/Merryweatherey  
-Colored Badges by: https://github.com/MikeCodesDotNET/ColoredBadges  
+Banner: https://twitter.com/Merryweatherey  
+Colored Badges: https://github.com/MikeCodesDotNET/ColoredBadges  
