@@ -1,10 +1,9 @@
 ![banner](https://i.imgur.com/NiH3cpL.png)
 
-# Hi there 👋
+# Hello there 👋
 
 ![](https://visitor-badge.glitch.me/badge?page_id=cerlancism.cerlancism)
 
-* 🔭 I’m currently working on SAP DevSecOps
 * 🌱 I’m currently learning Rust and Deno
 
 ![Celancism's github stats](https://github-readme-stats.vercel.app/api?username=Cerlancism&show_icons=true&hide_border=true)
