@@ -2,8 +2,6 @@
 
 # Hello there 👋
 
-![](https://visitor-badge.glitch.me/badge?page_id=cerlancism.cerlancism)
-
 * 🎓 I’m a Computer Science student
 * 🌱 I’m currently learning Rust and Deno
 
