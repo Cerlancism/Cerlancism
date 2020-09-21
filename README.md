@@ -35,5 +35,5 @@
 </p>
 
 ---
-Banner: https://twitter.com/Merryweatherey  
+Banner: Chrome VS IE/Edge by https://twitter.com/Merryweatherey  
 Colored Badges: https://github.com/MikeCodesDotNET/ColoredBadges  
