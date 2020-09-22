@@ -1,6 +1,6 @@
 ![banner](https://i.imgur.com/NiH3cpL.png)
 
-# Hello there 👋
+# Hello there 😉
 
 * 🎓 I’m a Computer Science student
 * 🌱 I’m currently learning Rust and Deno
