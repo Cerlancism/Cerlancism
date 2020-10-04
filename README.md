@@ -9,10 +9,10 @@
 
 ![Celancism's github stats](https://github-readme-stats.vercel.app/api?username=Cerlancism&show_icons=true&hide_border=true)
 
+### Languages and Tools
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cerlancism&layout=compact" alt="cerlancism" /></p>
-
-### Languages and Tools
 
 <p align="center">
  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/js.svg">
