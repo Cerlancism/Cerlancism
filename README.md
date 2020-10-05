@@ -9,7 +9,7 @@
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=Cerlancism&show_icons=true&hide_border=true" alt="cerlancism" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cerlancism&layout=compact" alt="cerlancism" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cerlancism&layout=compact&hide=HLSL,ShaderLab,HTML&langs_count=8" alt="cerlancism" />
 </div>
 
 
