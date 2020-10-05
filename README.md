@@ -7,12 +7,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cerlancism" alt="cerlancism" /> </p>
 
-![Celancism's github stats](https://github-readme-stats.vercel.app/api?username=Cerlancism&show_icons=true&hide_border=true)
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=Cerlancism&show_icons=true&hide_border=true" alt="cerlancism" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cerlancism&layout=compact" alt="cerlancism" />
+</div>
+
 
 ### Languages and Tools
 
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cerlancism&layout=compact" alt="cerlancism" /></p>
 
 <br>
 
