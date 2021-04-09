@@ -19,6 +19,7 @@
 <br>
 
 <p align="center">
+ <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/5bffd4d642c18efdc535293f81fb8452d8f2445e/svg/dev/languages/typescript.svg">
  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/js.svg">
  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/python.svg">
  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/java.svg">
@@ -39,6 +40,7 @@
 </p>
 
 <p align="center">
+ <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/services/digitalocean.svg">
  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/services/aws.svg">
  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/services/gcp.svg">
 </p>
