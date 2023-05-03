@@ -2,7 +2,7 @@
 
 # Hello there 😉
 
-* 🎓 I’m a Computer Science student
+* 🧠 Pragmatic thinker
 * 🌱 I’m currently learning Rust and Deno
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cerlancism" alt="cerlancism" /> </p>
