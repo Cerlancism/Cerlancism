@@ -3,7 +3,7 @@
 # Hello there 😉
 
 * 🧠 Pragmatic thinker
-* 🌱 I’m currently learning Rust and Deno
+* 🌱 Learning Rust and Deno
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cerlancism" alt="cerlancism" /> </p>
 
