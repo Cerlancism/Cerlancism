@@ -2,8 +2,8 @@
 
 # Hello there 😉
 
-* 🧠 Pragmatic thinker
-* 🌱 Learning Rust and Deno
+* 🧠 I'm a pragmatic thinker
+* 🌱 I'm learning Rust and Deno
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cerlancism" alt="cerlancism" /> </p>
 
