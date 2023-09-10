@@ -3,7 +3,7 @@
 # Hello there 😉
 
 * 🧠 I'm a pragmatic thinker
-* 📝 I'm a JSDoc Proponent 
+* 📝 I'm a JSDoc proponent 
 * 🌱 I'm learning Rust, Deno, Zig and Bun
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cerlancism" alt="cerlancism" /> </p>
